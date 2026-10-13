@@ -87,6 +87,7 @@ HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
   /* -3- Toggle PA05 IO in an infinite loop */  
  while (1)
 {
+    // Test Git  
     // Verifica se il pulsante utente (PC13) è premuto (solitamente livello basso/LOW su Nucleo)
     if (HAL_GPIO_ReadPin(GPIOC, GPIO_PIN_13) == GPIO_PIN_RESET) // Nota: il pin esatto dipende dal modello, solitamente PC13
     {
