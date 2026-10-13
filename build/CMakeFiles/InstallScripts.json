@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex-Debug (OpenOCD)",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "openocd",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/GPIO_IOToggle.elf",
+            "gdbPath": "/usr/bin/arm-none-eabi-gdb",
+            "objdumpPath": "/usr/bin/arm-none-eabi-objdump",
+            "nm": "/usr/bin/arm-none-eabi-nm",
+            "device": "STM32F401RE",
+            "configFiles": [
+                "interface/stlink.cfg",
+                "target/stm32f4x.cfg"
+            ],
+            "runToEntryPoint": "main",
+            "showDevDebugOutput": "raw"
+        }
+    ]
+}
