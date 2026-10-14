@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/Inc",
+                "/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc",
+                "/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+                "/home/minec/STM32CubeF4/Drivers/CMSIS/Include",
+                "/home/minec/STM32CubeF4/Drivers/BSP/STM32F4xx-Nucleo"
+            ],
+            "defines": [
+                "STM32F401xE",
+                "USE_HAL_DRIVER"
+            ],
+            "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}

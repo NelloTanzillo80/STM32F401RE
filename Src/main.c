@@ -18,6 +18,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+
 #include "main.h"
 
 /** @addtogroup STM32F4xx_HAL_Examples
@@ -38,6 +39,7 @@ static GPIO_InitTypeDef  GPIO_InitStruct;
 static void SystemClock_Config(void);
 static void Error_Handler(void);
 
+
 /* Private functions ---------------------------------------------------------*/
 
 /**
@@ -45,6 +47,42 @@ static void Error_Handler(void);
   * @param  None
   * @retval None
   */
+UART_HandleTypeDef huart2;
+
+void MX_USART2_UART_Init(void)
+{
+  GPIO_InitTypeDef GPIO_InitStruct = {0};
+
+  /* 1. Abilita i clock per USART2 e per il GPIOA */
+  __HAL_RCC_USART2_CLK_ENABLE();
+  __HAL_RCC_GPIOA_CLK_ENABLE();
+
+  /** USART2 GPIO Configuration
+   * PA2     ------> USART2_TX
+   * PA3     ------> USART2_RX
+   */
+  GPIO_InitStruct.Pin = GPIO_PIN_2 | GPIO_PIN_3;
+  GPIO_InitStruct.Mode = GPIO_MODE_AF_PP;
+  GPIO_InitStruct.Pull = GPIO_NOPULL;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_VERY_HIGH;
+  GPIO_InitStruct.Alternate = GPIO_AF7_USART2;
+  HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
+
+  /* 2. Inizializzazione della periferica UART */
+  huart2.Instance = USART2;
+  huart2.Init.BaudRate = 115200;
+  huart2.Init.WordLength = UART_WORDLENGTH_8B;
+  huart2.Init.StopBits = UART_STOPBITS_1;
+  huart2.Init.Parity = UART_PARITY_NONE;
+  huart2.Init.Mode = UART_MODE_TX_RX;
+  huart2.Init.HwFlowCtl = UART_HWCONTROL_NONE;
+  huart2.Init.OverSampling = UART_OVERSAMPLING_16;
+  if (HAL_UART_Init(&huart2) != HAL_OK)
+  {
+    Error_Handler();
+  }
+}
+
 int main(void)
 {
  /* This sample code shows how to use STM32F4xx GPIO HAL API to toggle PA05 IOs 
@@ -62,7 +100,7 @@ int main(void)
   
   /* Configure the system clock to 84 MHz */
   SystemClock_Config();
-  
+  MX_USART2_UART_Init();
   /* -1- Enable GPIOA Clock (to be able to program the configuration registers) */
   __HAL_RCC_GPIOA_CLK_ENABLE();
   
@@ -84,6 +122,7 @@ GPIO_InitStruct.Mode = GPIO_MODE_INPUT;
 GPIO_InitStruct.Pull = GPIO_PULLUP;
 HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
 
+
   /* -3- Toggle PA05 IO in an infinite loop */  
  while (1)
 {
@@ -91,9 +130,12 @@ HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
     // Verifica se il pulsante utente (PC13) è premuto (solitamente livello basso/LOW su Nucleo)
     if (HAL_GPIO_ReadPin(GPIOC, GPIO_PIN_13) == GPIO_PIN_RESET) // Nota: il pin esatto dipende dal modello, solitamente PC13
     {
+      char *msg = "Hello from STM32F401RE!\r\n";
+      HAL_UART_Transmit(&huart2, (uint8_t*)msg, strlen(msg), HAL_MAX_DELAY);
+      HAL_Delay(1000);
         // Inverti lo stato del LED
         HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
-        
+
         // Antirimbasso semplice (debounce)
         HAL_Delay(200);
     }
