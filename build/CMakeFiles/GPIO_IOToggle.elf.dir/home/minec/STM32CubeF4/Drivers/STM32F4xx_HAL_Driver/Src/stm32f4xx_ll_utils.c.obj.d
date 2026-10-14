@@ -31,6 +31,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+ /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h \
  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h \
  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h

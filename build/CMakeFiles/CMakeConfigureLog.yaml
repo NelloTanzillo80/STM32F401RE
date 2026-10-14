@@ -20,6 +20,9 @@ events:
     names:
       - "uname"
     candidate_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -29,6 +32,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -48,8 +52,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -57,12 +62,18 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/"
       - "/snap/bin/"
     searched_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/uname"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/uname"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/uname"
       - "/usr/local/sbin/uname"
       - "/usr/local/bin/uname"
       - "/usr/sbin/uname"
     found: "/usr/bin/uname"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -72,6 +83,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -91,12 +103,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -128,6 +142,9 @@ events:
       - "make"
       - "smake"
     candidate_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -137,6 +154,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -156,8 +174,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -165,12 +184,18 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/"
       - "/snap/bin/"
     searched_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/gmake"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/gmake"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/gmake"
       - "/usr/local/sbin/gmake"
       - "/usr/local/bin/gmake"
       - "/usr/sbin/gmake"
     found: "/usr/bin/gmake"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -180,6 +205,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -199,12 +225,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -227,6 +255,9 @@ events:
     names:
       - "arm-none-eabi-gcc"
     candidate_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -236,6 +267,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -255,8 +287,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -264,12 +297,18 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/"
       - "/snap/bin/"
     searched_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc"
       - "/usr/local/sbin/arm-none-eabi-gcc"
       - "/usr/local/bin/arm-none-eabi-gcc"
       - "/usr/sbin/arm-none-eabi-gcc"
     found: "/usr/bin/arm-none-eabi-gcc"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -279,6 +318,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -298,12 +338,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -333,6 +375,9 @@ events:
     found: "/usr/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -342,6 +387,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -361,12 +407,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -426,6 +474,9 @@ events:
     found: "/usr/share/cmake-4.2/Modules/CMakeCCompilerId.c.in"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -435,6 +486,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -454,12 +506,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -506,6 +560,9 @@ events:
       - "ar"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -514,6 +571,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -533,8 +591,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -544,6 +603,9 @@ events:
     found: "/usr/bin/arm-none-eabi-ar"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -553,6 +615,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -572,12 +635,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -602,6 +667,9 @@ events:
       - "ranlib"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -610,6 +678,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -629,8 +698,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -640,6 +710,9 @@ events:
     found: "/usr/bin/arm-none-eabi-ranlib"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -649,6 +722,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -668,12 +742,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -698,6 +774,9 @@ events:
       - "strip"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -706,6 +785,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -725,8 +805,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -736,6 +817,9 @@ events:
     found: "/usr/bin/arm-none-eabi-strip"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -745,6 +829,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -764,12 +849,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -794,6 +881,9 @@ events:
       - "ld"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -802,6 +892,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -821,8 +912,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -832,6 +924,9 @@ events:
     found: "/usr/bin/arm-none-eabi-ld"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -841,6 +936,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -860,12 +956,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -890,6 +988,9 @@ events:
       - "nm"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -898,6 +999,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -917,8 +1019,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -928,6 +1031,9 @@ events:
     found: "/usr/bin/arm-none-eabi-nm"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -937,6 +1043,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -956,12 +1063,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -986,6 +1095,9 @@ events:
       - "objdump"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -994,6 +1106,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1013,8 +1126,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1024,6 +1138,9 @@ events:
     found: "/usr/bin/arm-none-eabi-objdump"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1033,6 +1150,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1052,12 +1170,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1082,6 +1202,9 @@ events:
       - "objcopy"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1090,6 +1213,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1109,8 +1233,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1120,6 +1245,9 @@ events:
     found: "/usr/bin/arm-none-eabi-objcopy"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1129,6 +1257,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1148,12 +1277,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1178,6 +1309,9 @@ events:
       - "readelf"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1186,6 +1320,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1205,8 +1340,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1216,6 +1352,9 @@ events:
     found: "/usr/bin/arm-none-eabi-readelf"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1225,6 +1364,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1244,12 +1384,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1274,6 +1416,9 @@ events:
       - "dlltool"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1282,6 +1427,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1301,8 +1447,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1311,6 +1458,9 @@ events:
       - "/snap/bin/"
     searched_directories:
       - "/usr/bin/arm-none-eabi-dlltool"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-dlltool"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-dlltool"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-dlltool"
       - "/usr/local/sbin/arm-none-eabi-dlltool"
       - "/usr/local/bin/arm-none-eabi-dlltool"
       - "/usr/sbin/arm-none-eabi-dlltool"
@@ -1319,6 +1469,7 @@ events:
       - "/usr/games/arm-none-eabi-dlltool"
       - "/usr/local/games/arm-none-eabi-dlltool"
       - "/usr/lib/wsl/lib/arm-none-eabi-dlltool"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-dlltool"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-dlltool"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-dlltool"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-dlltool"
@@ -1338,8 +1489,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-dlltool"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-dlltool"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-dlltool"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-dlltool"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-dlltool"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-dlltool"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-dlltool"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-dlltool"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-dlltool"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-dlltool"
@@ -1347,6 +1499,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-dlltool"
       - "/snap/bin/arm-none-eabi-dlltool"
       - "/usr/bin/dlltool"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/dlltool"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/dlltool"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/dlltool"
       - "/usr/local/sbin/dlltool"
       - "/usr/local/bin/dlltool"
       - "/usr/sbin/dlltool"
@@ -1355,6 +1510,7 @@ events:
       - "/usr/games/dlltool"
       - "/usr/local/games/dlltool"
       - "/usr/lib/wsl/lib/dlltool"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/dlltool"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/dlltool"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/dlltool"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/dlltool"
@@ -1374,8 +1530,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/dlltool"
       - "/mnt/c/Program Files/dotnet/dlltool"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/dlltool"
-      - "/mnt/c/Program Files/nodejs/dlltool"
       - "/mnt/c/Program Files/WSL/dlltool"
+      - "/mnt/c/Program Files/usbipd-win/dlltool"
+      - "/mnt/c/Program Files/nodejs/dlltool"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/dlltool"
       - "/mnt/c/Users/minec/.dotnet/tools/dlltool"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/dlltool"
@@ -1385,6 +1542,9 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1394,6 +1554,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1413,12 +1574,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1443,6 +1606,9 @@ events:
       - "addr2line"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1451,6 +1617,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1470,8 +1637,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1481,6 +1649,9 @@ events:
     found: "/usr/bin/arm-none-eabi-addr2line"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1490,6 +1661,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1509,12 +1681,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1539,6 +1713,9 @@ events:
       - "tapi"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1547,6 +1724,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1566,8 +1744,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1576,6 +1755,9 @@ events:
       - "/snap/bin/"
     searched_directories:
       - "/usr/bin/arm-none-eabi-tapi"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-tapi"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-tapi"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-tapi"
       - "/usr/local/sbin/arm-none-eabi-tapi"
       - "/usr/local/bin/arm-none-eabi-tapi"
       - "/usr/sbin/arm-none-eabi-tapi"
@@ -1584,6 +1766,7 @@ events:
       - "/usr/games/arm-none-eabi-tapi"
       - "/usr/local/games/arm-none-eabi-tapi"
       - "/usr/lib/wsl/lib/arm-none-eabi-tapi"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-tapi"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-tapi"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-tapi"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-tapi"
@@ -1603,8 +1786,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-tapi"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-tapi"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-tapi"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-tapi"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-tapi"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-tapi"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-tapi"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-tapi"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-tapi"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-tapi"
@@ -1612,6 +1796,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-tapi"
       - "/snap/bin/arm-none-eabi-tapi"
       - "/usr/bin/tapi"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/tapi"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/tapi"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/tapi"
       - "/usr/local/sbin/tapi"
       - "/usr/local/bin/tapi"
       - "/usr/sbin/tapi"
@@ -1620,6 +1807,7 @@ events:
       - "/usr/games/tapi"
       - "/usr/local/games/tapi"
       - "/usr/lib/wsl/lib/tapi"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/tapi"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/tapi"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/tapi"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/tapi"
@@ -1639,8 +1827,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/tapi"
       - "/mnt/c/Program Files/dotnet/tapi"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/tapi"
-      - "/mnt/c/Program Files/nodejs/tapi"
       - "/mnt/c/Program Files/WSL/tapi"
+      - "/mnt/c/Program Files/usbipd-win/tapi"
+      - "/mnt/c/Program Files/nodejs/tapi"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/tapi"
       - "/mnt/c/Users/minec/.dotnet/tools/tapi"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
@@ -1650,6 +1839,9 @@ events:
     found: false
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1659,6 +1851,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1678,12 +1871,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1710,6 +1905,9 @@ events:
       - "arm-none-eabi-gcc-ar"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1718,6 +1916,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1737,8 +1936,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1747,6 +1947,9 @@ events:
       - "/snap/bin/"
     searched_directories:
       - "/usr/bin/arm-none-eabi-gcc-ar-14.2"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ar-14.2"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ar-14.2"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ar-14.2"
       - "/usr/local/sbin/arm-none-eabi-gcc-ar-14.2"
       - "/usr/local/bin/arm-none-eabi-gcc-ar-14.2"
       - "/usr/sbin/arm-none-eabi-gcc-ar-14.2"
@@ -1755,6 +1958,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ar-14.2"
       - "/usr/local/games/arm-none-eabi-gcc-ar-14.2"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ar-14.2"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ar-14.2"
@@ -1774,8 +1978,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ar-14.2"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ar-14.2"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ar-14.2"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ar-14.2"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-14.2"
@@ -1783,6 +1988,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-gcc-ar-14.2"
       - "/snap/bin/arm-none-eabi-gcc-ar-14.2"
       - "/usr/bin/arm-none-eabi-gcc-ar-14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ar-14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ar-14"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ar-14"
       - "/usr/local/sbin/arm-none-eabi-gcc-ar-14"
       - "/usr/local/bin/arm-none-eabi-gcc-ar-14"
       - "/usr/sbin/arm-none-eabi-gcc-ar-14"
@@ -1791,6 +1999,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ar-14"
       - "/usr/local/games/arm-none-eabi-gcc-ar-14"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ar-14"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ar-14"
@@ -1810,8 +2019,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ar-14"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ar-14"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ar-14"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ar-14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-14"
@@ -1819,6 +2029,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-gcc-ar-14"
       - "/snap/bin/arm-none-eabi-gcc-ar-14"
       - "/usr/bin/arm-none-eabi-gcc-ar14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ar14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ar14"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ar14"
       - "/usr/local/sbin/arm-none-eabi-gcc-ar14"
       - "/usr/local/bin/arm-none-eabi-gcc-ar14"
       - "/usr/sbin/arm-none-eabi-gcc-ar14"
@@ -1827,6 +2040,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ar14"
       - "/usr/local/games/arm-none-eabi-gcc-ar14"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ar14"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ar14"
@@ -1846,8 +2060,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ar14"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ar14"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ar14"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ar14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ar14"
@@ -1857,6 +2072,9 @@ events:
     found: "/usr/bin/arm-none-eabi-gcc-ar"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -1866,6 +2084,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1885,12 +2104,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -1917,6 +2138,9 @@ events:
       - "arm-none-eabi-gcc-ranlib"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -1925,6 +2149,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -1944,8 +2169,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -1954,6 +2180,9 @@ events:
       - "/snap/bin/"
     searched_directories:
       - "/usr/bin/arm-none-eabi-gcc-ranlib-14.2"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ranlib-14.2"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ranlib-14.2"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ranlib-14.2"
       - "/usr/local/sbin/arm-none-eabi-gcc-ranlib-14.2"
       - "/usr/local/bin/arm-none-eabi-gcc-ranlib-14.2"
       - "/usr/sbin/arm-none-eabi-gcc-ranlib-14.2"
@@ -1962,6 +2191,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ranlib-14.2"
       - "/usr/local/games/arm-none-eabi-gcc-ranlib-14.2"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ranlib-14.2"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ranlib-14.2"
@@ -1981,8 +2211,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ranlib-14.2"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ranlib-14.2"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ranlib-14.2"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ranlib-14.2"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-14.2"
@@ -1990,6 +2221,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-14.2"
       - "/snap/bin/arm-none-eabi-gcc-ranlib-14.2"
       - "/usr/bin/arm-none-eabi-gcc-ranlib-14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ranlib-14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ranlib-14"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ranlib-14"
       - "/usr/local/sbin/arm-none-eabi-gcc-ranlib-14"
       - "/usr/local/bin/arm-none-eabi-gcc-ranlib-14"
       - "/usr/sbin/arm-none-eabi-gcc-ranlib-14"
@@ -1998,6 +2232,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ranlib-14"
       - "/usr/local/games/arm-none-eabi-gcc-ranlib-14"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ranlib-14"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ranlib-14"
@@ -2017,8 +2252,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ranlib-14"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ranlib-14"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ranlib-14"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ranlib-14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-14"
@@ -2026,6 +2262,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-14"
       - "/snap/bin/arm-none-eabi-gcc-ranlib-14"
       - "/usr/bin/arm-none-eabi-gcc-ranlib14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ranlib14"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ranlib14"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ranlib14"
       - "/usr/local/sbin/arm-none-eabi-gcc-ranlib14"
       - "/usr/local/bin/arm-none-eabi-gcc-ranlib14"
       - "/usr/sbin/arm-none-eabi-gcc-ranlib14"
@@ -2034,6 +2273,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ranlib14"
       - "/usr/local/games/arm-none-eabi-gcc-ranlib14"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ranlib14"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ranlib14"
@@ -2053,8 +2293,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ranlib14"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ranlib14"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ranlib14"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ranlib14"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib14"
@@ -2064,6 +2305,9 @@ events:
     found: "/usr/bin/arm-none-eabi-gcc-ranlib"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -2073,6 +2317,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2092,12 +2337,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -2120,6 +2367,9 @@ events:
     names:
       - "arm-none-eabi-gcc"
     candidate_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -2129,6 +2379,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2148,8 +2399,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -2157,12 +2409,18 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/"
       - "/snap/bin/"
     searched_directories:
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc"
       - "/usr/local/sbin/arm-none-eabi-gcc"
       - "/usr/local/bin/arm-none-eabi-gcc"
       - "/usr/sbin/arm-none-eabi-gcc"
     found: "/usr/bin/arm-none-eabi-gcc"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -2172,6 +2430,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2191,12 +2450,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -2236,6 +2497,9 @@ events:
       - "arm-none-eabi-gcc-ar"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -2244,6 +2508,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2263,8 +2528,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -2273,6 +2539,9 @@ events:
       - "/snap/bin/"
     searched_directories:
       - "/usr/bin/arm-none-eabi-gcc-ar-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ar-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ar-"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ar-"
       - "/usr/local/sbin/arm-none-eabi-gcc-ar-"
       - "/usr/local/bin/arm-none-eabi-gcc-ar-"
       - "/usr/sbin/arm-none-eabi-gcc-ar-"
@@ -2281,6 +2550,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ar-"
       - "/usr/local/games/arm-none-eabi-gcc-ar-"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ar-"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ar-"
@@ -2300,8 +2570,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ar-"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ar-"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ar-"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-"
@@ -2309,6 +2580,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-gcc-ar-"
       - "/snap/bin/arm-none-eabi-gcc-ar-"
       - "/usr/bin/arm-none-eabi-gcc-ar-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ar-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ar-"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ar-"
       - "/usr/local/sbin/arm-none-eabi-gcc-ar-"
       - "/usr/local/bin/arm-none-eabi-gcc-ar-"
       - "/usr/sbin/arm-none-eabi-gcc-ar-"
@@ -2317,6 +2591,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ar-"
       - "/usr/local/games/arm-none-eabi-gcc-ar-"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ar-"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ar-"
@@ -2336,8 +2611,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ar-"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ar-"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ar-"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ar-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ar-"
@@ -2347,6 +2623,9 @@ events:
     found: "/usr/bin/arm-none-eabi-gcc-ar"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -2356,6 +2635,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2375,12 +2655,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -2407,6 +2689,9 @@ events:
       - "arm-none-eabi-gcc-ranlib"
     candidate_directories:
       - "/usr/bin/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/"
       - "/usr/local/sbin/"
       - "/usr/local/bin/"
       - "/usr/sbin/"
@@ -2415,6 +2700,7 @@ events:
       - "/usr/games/"
       - "/usr/local/games/"
       - "/usr/lib/wsl/lib/"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2434,8 +2720,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/"
       - "/mnt/c/Program Files/dotnet/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Program Files/WSL/"
+      - "/mnt/c/Program Files/usbipd-win/"
+      - "/mnt/c/Program Files/nodejs/"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/"
       - "/mnt/c/Users/minec/.dotnet/tools/"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/"
@@ -2444,6 +2731,9 @@ events:
       - "/snap/bin/"
     searched_directories:
       - "/usr/bin/arm-none-eabi-gcc-ranlib-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ranlib-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ranlib-"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ranlib-"
       - "/usr/local/sbin/arm-none-eabi-gcc-ranlib-"
       - "/usr/local/bin/arm-none-eabi-gcc-ranlib-"
       - "/usr/sbin/arm-none-eabi-gcc-ranlib-"
@@ -2452,6 +2742,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ranlib-"
       - "/usr/local/games/arm-none-eabi-gcc-ranlib-"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ranlib-"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ranlib-"
@@ -2471,8 +2762,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ranlib-"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ranlib-"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ranlib-"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-"
@@ -2480,6 +2772,9 @@ events:
       - "/mnt/c/Users/minec/AppData/Roaming/npm/arm-none-eabi-gcc-ranlib-"
       - "/snap/bin/arm-none-eabi-gcc-ranlib-"
       - "/usr/bin/arm-none-eabi-gcc-ranlib-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand/arm-none-eabi-gcc-ranlib-"
+      - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli/arm-none-eabi-gcc-ranlib-"
+      - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli/arm-none-eabi-gcc-ranlib-"
       - "/usr/local/sbin/arm-none-eabi-gcc-ranlib-"
       - "/usr/local/bin/arm-none-eabi-gcc-ranlib-"
       - "/usr/sbin/arm-none-eabi-gcc-ranlib-"
@@ -2488,6 +2783,7 @@ events:
       - "/usr/games/arm-none-eabi-gcc-ranlib-"
       - "/usr/local/games/arm-none-eabi-gcc-ranlib-"
       - "/usr/lib/wsl/lib/arm-none-eabi-gcc-ranlib-"
+      - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/arm-none-eabi-gcc-ranlib-"
@@ -2507,8 +2803,9 @@ events:
       - "/mnt/d/eclipse/SDK/cmdline-tools/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files/dotnet/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/arm-none-eabi-gcc-ranlib-"
-      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Program Files/WSL/arm-none-eabi-gcc-ranlib-"
+      - "/mnt/c/Program Files/usbipd-win/arm-none-eabi-gcc-ranlib-"
+      - "/mnt/c/Program Files/nodejs/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/.dotnet/tools/arm-none-eabi-gcc-ranlib-"
       - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin/arm-none-eabi-gcc-ranlib-"
@@ -2518,6 +2815,9 @@ events:
     found: "/usr/bin/arm-none-eabi-gcc-ranlib"
     search_context:
       ENV{PATH}:
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/debugCommand"
+        - "/home/minec/.vscode-server/data/User/globalStorage/github.copilot-chat/copilotCli"
+        - "/home/minec/.vscode-server/bin/7baac39ec3ca969dab74ac12c097f6a486e46593/bin/remote-cli"
         - "/usr/local/sbin"
         - "/usr/local/bin"
         - "/usr/sbin"
@@ -2527,6 +2827,7 @@ events:
         - "/usr/games"
         - "/usr/local/games"
         - "/usr/lib/wsl/lib"
+        - "/mnt/c/Program Files (x86)/Microsoft/Edge/Application"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/java8path"
         - "/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath"
         - "/mnt/c/Program Files/BellSoft/LibericaJDK-8/bin/"
@@ -2546,12 +2847,14 @@ events:
         - "/mnt/d/eclipse/SDK/cmdline-tools"
         - "/mnt/c/Program Files/dotnet/"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
-        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Program Files/WSL/"
+        - "/mnt/c/Program Files/usbipd-win/"
+        - "/mnt/c/Program Files/nodejs/"
         - "/mnt/c/Users/minec/AppData/Local/Microsoft/WindowsApps"
         - "/mnt/c/Users/minec/.dotnet/tools"
         - "/mnt/c/Users/minec/AppData/Local/Programs/Microsoft VS Code/bin"
         - "/mnt/c/Users/minec/AppData/Local/Android/Sdk/platform-tools"
+        - "/mnt/c/Users/minec/AppData/Local/Programs/Python/Python313/"
         - "/mnt/c/Users/minec/AppData/Roaming/npm"
         - "/snap/bin"
   -
@@ -2563,8 +2866,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu"
-      binary: "/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu"
+      source: "/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY"
+      binary: "/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -2573,13 +2876,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu'
+        Change Dir: '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY'
         
-        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_fad79/fast
-        /usr/bin/gmake  -f CMakeFiles/cmTC_fad79.dir/build.make CMakeFiles/cmTC_fad79.dir/build
-        gmake[1]: Entering directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu'
-        Building C object CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj
-        /usr/bin/arm-none-eabi-gcc   -v -o CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
+        Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3dcd2/fast
+        /usr/bin/gmake  -f CMakeFiles/cmTC_3dcd2.dir/build.make CMakeFiles/cmTC_3dcd2.dir/build
+        gmake[1]: Entering directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY'
+        Building C object CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj
+        /usr/bin/arm-none-eabi-gcc   -v -o CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c
         Using built-in specs.
         COLLECT_GCC=/usr/bin/arm-none-eabi-gcc
         Target: arm-none-eabi
@@ -2587,8 +2890,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.2.1 20241119 (15:14.2.rel1-1) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_fad79.dir/'
-         /usr/lib/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -D__USES_INITFINI__ /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_fad79.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -o /tmp/ccI3CoGu.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_3dcd2.dir/'
+         /usr/lib/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -D__USES_INITFINI__ /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_3dcd2.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -o /tmp/ccH7LJ8X.s
         GNU C17 (15:14.2.rel1-1) version 14.2.1 20241119 (arm-none-eabi)
         	compiled by GNU C version 14.2.0, GMP version 6.3.0, MPFR version 4.2.1, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -2602,18 +2905,18 @@ events:
          /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: 83c7bd5e138bdd5cc3a8ac007b488250
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_fad79.dir/'
-         /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj /tmp/ccI3CoGu.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_3dcd2.dir/'
+         /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj /tmp/ccH7LJ8X.s
         GNU assembler version 2.45.50 (arm-none-eabi) using BFD version (2.45.50.20251209-1ubuntu1+23build1) 2.45.50.20251209
         COMPILER_PATH=/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/:/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/:/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/bin/
         LIBRARY_PATH=/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.'
-        Linking C static library libcmTC_fad79.a
-        /usr/bin/cmake -P CMakeFiles/cmTC_fad79.dir/cmake_clean_target.cmake
-        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fad79.dir/link.txt --verbose=1
-        /usr/bin/arm-none-eabi-ar qc libcmTC_fad79.a CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj
-        /usr/bin/arm-none-eabi-ranlib libcmTC_fad79.a
-        gmake[1]: Leaving directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.'
+        Linking C static library libcmTC_3dcd2.a
+        /usr/bin/cmake -P CMakeFiles/cmTC_3dcd2.dir/cmake_clean_target.cmake
+        /usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3dcd2.dir/link.txt --verbose=1
+        /usr/bin/arm-none-eabi-ar qc libcmTC_3dcd2.a CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj
+        /usr/bin/arm-none-eabi-ranlib libcmTC_3dcd2.a
+        gmake[1]: Leaving directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY'
         
       exitCode: 0
   -
@@ -2646,13 +2949,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu']
+        ignore line: [Change Dir: '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY']
         ignore line: []
-        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_fad79/fast]
-        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_fad79.dir/build.make CMakeFiles/cmTC_fad79.dir/build]
-        ignore line: [gmake[1]: Entering directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu']
-        ignore line: [Building C object CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [/usr/bin/arm-none-eabi-gcc   -v -o CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
+        ignore line: [Run Build Command(s): /usr/bin/cmake -E env VERBOSE=1 /usr/bin/gmake -f Makefile cmTC_3dcd2/fast]
+        ignore line: [/usr/bin/gmake  -f CMakeFiles/cmTC_3dcd2.dir/build.make CMakeFiles/cmTC_3dcd2.dir/build]
+        ignore line: [gmake[1]: Entering directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY']
+        ignore line: [Building C object CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [/usr/bin/arm-none-eabi-gcc   -v -o CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj -c /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=/usr/bin/arm-none-eabi-gcc]
         ignore line: [Target: arm-none-eabi]
@@ -2660,8 +2963,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.1 20241119 (15:14.2.rel1-1) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_fad79.dir/']
-        ignore line: [ /usr/lib/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -D__USES_INITFINI__ /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_fad79.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -o /tmp/ccI3CoGu.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_3dcd2.dir/']
+        ignore line: [ /usr/lib/gcc/arm-none-eabi/14.2.1/cc1 -quiet -v -D__USES_INITFINI__ /usr/share/cmake-4.2/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_3dcd2.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -o /tmp/ccH7LJ8X.s]
         ignore line: [GNU C17 (15:14.2.rel1-1) version 14.2.1 20241119 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 14.2.0  GMP version 6.3.0  MPFR version 4.2.1  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -2675,18 +2978,18 @@ events:
         ignore line: [ /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 83c7bd5e138bdd5cc3a8ac007b488250]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_fad79.dir/']
-        ignore line: [ /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj /tmp/ccI3CoGu.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_3dcd2.dir/']
+        ignore line: [ /usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/bin/as -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj /tmp/ccH7LJ8X.s]
         ignore line: [GNU assembler version 2.45.50 (arm-none-eabi) using BFD version (2.45.50.20251209-1ubuntu1+23build1) 2.45.50.20251209]
         ignore line: [COMPILER_PATH=/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/:/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/:/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/bin/]
         ignore line: [LIBRARY_PATH=/usr/lib/gcc/arm-none-eabi/14.2.1/:/usr/lib/gcc/arm-none-eabi/14.2.1/../../../arm-none-eabi/lib/]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.']
-        ignore line: [Linking C static library libcmTC_fad79.a]
-        ignore line: [/usr/bin/cmake -P CMakeFiles/cmTC_fad79.dir/cmake_clean_target.cmake]
-        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fad79.dir/link.txt --verbose=1]
-        ignore line: [/usr/bin/arm-none-eabi-ar qc libcmTC_fad79.a CMakeFiles/cmTC_fad79.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [/usr/bin/arm-none-eabi-ranlib libcmTC_fad79.a]
-        ignore line: [gmake[1]: Leaving directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-Y1m7Vu']
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.']
+        ignore line: [Linking C static library libcmTC_3dcd2.a]
+        ignore line: [/usr/bin/cmake -P CMakeFiles/cmTC_3dcd2.dir/cmake_clean_target.cmake]
+        ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3dcd2.dir/link.txt --verbose=1]
+        ignore line: [/usr/bin/arm-none-eabi-ar qc libcmTC_3dcd2.a CMakeFiles/cmTC_3dcd2.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [/usr/bin/arm-none-eabi-ranlib libcmTC_3dcd2.a]
+        ignore line: [gmake[1]: Leaving directory '/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/build/CMakeFiles/CMakeScratch/TryCompile-HAM1SY']
         ignore line: []
         ignore line: []
         implicit libs: []

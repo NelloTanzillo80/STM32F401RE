@@ -29,9 +29,26 @@ CMakeFiles/GPIO_IOToggle.elf.dir/Src/main.c.obj: /home/minec/STM32CubeF4/Project
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/main.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
+  /usr/include/newlib/_ansi.h \
+  /usr/include/newlib/_newlib_version.h \
+  /usr/include/newlib/machine/_default_types.h \
+  /usr/include/newlib/machine/_types.h \
+  /usr/include/newlib/machine/ieeefp.h \
+  /usr/include/newlib/newlib.h \
+  /usr/include/newlib/string.h \
+  /usr/include/newlib/strings.h \
+  /usr/include/newlib/sys/_locale.h \
+  /usr/include/newlib/sys/_types.h \
+  /usr/include/newlib/sys/cdefs.h \
+  /usr/include/newlib/sys/config.h \
+  /usr/include/newlib/sys/features.h \
+  /usr/include/newlib/sys/lock.h \
+  /usr/include/newlib/sys/reent.h \
+  /usr/include/newlib/sys/string.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h
 
@@ -63,10 +80,27 @@ CMakeFiles/GPIO_IOToggle.elf.dir/Src/stm32f4xx_it.c.obj: /home/minec/STM32CubeF4
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/main.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_it.h \
+  /usr/include/newlib/_ansi.h \
+  /usr/include/newlib/_newlib_version.h \
+  /usr/include/newlib/machine/_default_types.h \
+  /usr/include/newlib/machine/_types.h \
+  /usr/include/newlib/machine/ieeefp.h \
+  /usr/include/newlib/newlib.h \
+  /usr/include/newlib/string.h \
+  /usr/include/newlib/strings.h \
+  /usr/include/newlib/sys/_locale.h \
+  /usr/include/newlib/sys/_types.h \
+  /usr/include/newlib/sys/cdefs.h \
+  /usr/include/newlib/sys/config.h \
+  /usr/include/newlib/sys/features.h \
+  /usr/include/newlib/sys/lock.h \
+  /usr/include/newlib/sys/reent.h \
+  /usr/include/newlib/sys/string.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h
 
@@ -97,6 +131,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/Src/system_stm32f4xx.c.obj: /home/minec/STM32Cu
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -129,6 +164,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -161,6 +197,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -193,6 +230,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -225,6 +263,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -257,6 +296,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -289,6 +329,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -321,6 +362,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -353,6 +395,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -385,6 +428,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -417,6 +461,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -449,6 +494,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -481,6 +527,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -513,6 +560,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -545,6 +593,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -577,6 +626,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -609,6 +659,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -641,6 +692,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -673,6 +725,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -705,6 +758,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -737,6 +791,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -769,6 +824,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -801,6 +857,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -833,6 +890,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -865,6 +923,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -897,6 +956,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -929,6 +989,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -961,6 +1022,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -993,6 +1055,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1025,6 +1088,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1057,6 +1121,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1089,6 +1154,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1121,6 +1187,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1153,6 +1220,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1185,6 +1253,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1217,6 +1286,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1249,6 +1319,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1281,6 +1352,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1313,6 +1385,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1345,6 +1418,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1377,6 +1451,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1409,6 +1484,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1441,6 +1517,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1473,6 +1550,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1505,6 +1583,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1537,6 +1616,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1569,6 +1649,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1601,6 +1682,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1633,6 +1715,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1665,6 +1748,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1697,6 +1781,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1729,6 +1814,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1761,6 +1847,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1793,6 +1880,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1825,6 +1913,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1857,6 +1946,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1889,6 +1979,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1921,6 +2012,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1953,6 +2045,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -1985,6 +2078,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2017,6 +2111,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2049,6 +2144,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2081,6 +2177,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2113,6 +2210,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2145,6 +2243,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2177,6 +2276,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2209,6 +2309,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2241,6 +2342,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2273,6 +2375,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2317,6 +2420,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2351,6 +2455,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2397,6 +2502,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2435,6 +2541,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h \
   /usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h \
@@ -2467,6 +2574,7 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+  /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_adc.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_pwr.h \
   /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h \
@@ -2481,139 +2589,63 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_system.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_tim.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rng.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_sdmmc.c:
 
-/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rtc.c:
 
-/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rng.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dfsdm.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_pwr.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_lptim.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_i2c.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cryp.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmpi2c.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.c:
+/usr/include/newlib/_ansi.h:
 
 /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Src/stm32f4xx_it.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_pwr.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dcmi_ex.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nor.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c:
+/usr/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c:
+/usr/include/newlib/string.h:
 
 /home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_it.h:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sram.c:
 
-/usr/lib/gcc/arm-none-eabi/14.2.1/include/stdint.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c:
+/usr/include/newlib/newlib.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_crc.c:
+/home/minec/STM32CubeF4/Drivers/CMSIS/Include/cmsis_gcc.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_usart.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c:
+/usr/include/newlib/machine/_types.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cryp_ex.c:
+/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
-
-/home/minec/STM32CubeF4/Drivers/CMSIS/Include/cmsis_version.h:
-
-/home/minec/STM32CubeF4/Drivers/CMSIS/Include/cmsis_compiler.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmpi2c.c:
-
-/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dac.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c:
-
-/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/main.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fmc.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c:
-
-/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Src/main.c:
-
-/home/minec/STM32CubeF4/Drivers/BSP/STM32F4xx-Nucleo/stm32f4xx_nucleo.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rng.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dcmi.c:
-
-/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Src/system_stm32f4xx.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
-
-/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_eth.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dma2d.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sai_ex.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rtc.c:
-
-/home/minec/STM32CubeF4/Drivers/CMSIS/Include/core_cm4.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c:
-
-/home/minec/STM32CubeF4/Drivers/CMSIS/Include/mpu_armv7.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_wwdg.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpsmbus_ex.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c:
-
-/usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cec.c:
+/usr/include/newlib/strings.h:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
 
@@ -2621,25 +2653,159 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_nand.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+/home/minec/STM32CubeF4/Drivers/CMSIS/Include/cmsis_version.h:
+
+/home/minec/STM32CubeF4/Drivers/CMSIS/Include/cmsis_compiler.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dac.c:
+
+/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/main.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h:
+
+/home/minec/STM32CubeF4/Drivers/BSP/STM32F4xx-Nucleo/stm32f4xx_nucleo.h:
+
+/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f401xe.h:
+
+/usr/include/newlib/sys/string.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+
+/home/minec/STM32CubeF4/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+
+/usr/include/newlib/sys/features.h:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c:
+/usr/include/newlib/sys/lock.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cryp.c:
+
+/usr/include/newlib/sys/_locale.h:
+
+/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc.h:
+
+/usr/include/newlib/sys/_types.h:
+
+/usr/include/newlib/machine/ieeefp.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dma2d.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sai_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/CMSIS/Include/core_cm4.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/CMSIS/Include/mpu_armv7.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+
+/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Src/system_stm32f4xx.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dcmi.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma2d.c:
+
+/usr/lib/gcc/arm-none-eabi/14.2.1/include/stddef.h:
+
+/usr/include/newlib/sys/cdefs.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cec.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rng.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usart.c:
+
+/usr/include/newlib/machine/_default_types.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+
+/usr/include/newlib/sys/reent.h:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rtc.c:
+
+/home/minec/STM32CubeF4/Projects/STM32F401RE-Nucleo/Examples/GPIO/GPIO_IOToggle/Src/main.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pcd.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dac_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cryp_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_crc.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dsi.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_eth.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c:
 
-/home/minec/STM32CubeF4/Drivers/CMSIS/Include/cmsis_gcc.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2c_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dfsdm.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_wwdg.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpsmbus_ex.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_spi.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpi2c.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpi2c_ex.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sai.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpsmbus.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_fsmc.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_rcc.h:
 
@@ -2653,11 +2819,13 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pccard.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_lptim.c:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h:
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_can.c:
+
+/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_adc_ex.h:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_irda.c:
 
@@ -2683,12 +2851,6 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usart.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rtc.c:
-
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rtc_ex.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
@@ -2697,9 +2859,9 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_sdram.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_i2c.c:
-
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_smartcard.c:
+
+/usr/include/newlib/_newlib_version.h:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_smbus.c:
 
@@ -2709,30 +2871,10 @@ CMakeFiles/GPIO_IOToggle.elf.dir/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Dr
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_rcc.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_usart.c:
-
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_dma.c:
 
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_i2s.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_usb.c:
+/usr/include/newlib/sys/config.h:
 
 /home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_exti.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_gpio.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_sdmmc.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_fmpi2c.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_spi.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_tim.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c:
-
-/home/minec/STM32CubeF4/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_utils.c:
